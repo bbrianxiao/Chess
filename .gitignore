@@ -1,0 +1,7 @@
+*.d
+.vscode/
+gcm.cache/
+*.o
+chess
+*.in
+a.out
